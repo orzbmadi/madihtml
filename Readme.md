@@ -1,9 +1,4 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <title>
-            Что то там
-        </title>
         <meta charset="UTF-8" />
         <link rel="shortcut icon" href="20201023_044705.jpg" />
     </head>
